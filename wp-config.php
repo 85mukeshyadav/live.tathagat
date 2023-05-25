@@ -31,7 +31,7 @@ define( 'DB_USER', 'cjhfzely_blog_admin' );
 define( 'DB_PASSWORD', 'Tathagat@098' );
 
 /** Database hostname */
-define( 'DB_HOST', 'localhost' );
+define( 'DB_HOST', 'prepcha.com' );
 
 /** Database charset to use in creating database tables. */
 define( 'DB_CHARSET', 'utf8mb4' );
