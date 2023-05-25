@@ -22,13 +22,13 @@ if ( ! defined( 'FS_METHOD' ) ) define( 'FS_METHOD', 'direct' );
 
 // ** Database settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
-define( 'DB_NAME', 'gangubai' );
+define( 'DB_NAME', 'cjhfzely_gangubai' );
 
 /** Database username */
-define( 'DB_USER', 'mukeshy' );
+define( 'DB_USER', 'cjhfzely_blog_admin' );
 
 /** Database password */
-define( 'DB_PASSWORD', 'Yadav@098' );
+define( 'DB_PASSWORD', 'Tathagat@098' );
 
 /** Database hostname */
 define( 'DB_HOST', 'localhost' );
