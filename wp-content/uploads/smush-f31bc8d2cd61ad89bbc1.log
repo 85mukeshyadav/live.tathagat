@@ -1,0 +1,869 @@
+[2022-09-02 20:50:24 : INFO] - Could not find file for image: ID=8946, file=/home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/1-01-01.webp 
+[2022-09-02 20:50:35 : INFO] - Could not find file for image: ID=8946, file=/home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/1-01-01.webp 
+[2022-09-02 20:50:49 : INFO] - Re_Smush_It_Task server status: Online 
+[2022-09-02 20:50:52 : INFO] - Could not find file for image: ID=8946, file=/home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/1-01-01.webp 
+[2022-09-02 20:50:52 : INFO] - 
+ 
+[2022-09-02 20:50:52 : INFO] - Header for logs at time:  Fri, 02 Sep 2022 20:50:52 +0000 on https://tathagat.co.in/online 
+[2022-09-02 20:50:52 : INFO] - WP: 6.0.2 
+[2022-09-02 20:50:52 : INFO] - PHP: 8.0.22 (litespeed, Linux us511.directrouter.com 3.10.0-962.3.2.lve1.5.70.el7.x86_64 #1 SMP Mon May 30 08:45:55 UTC 2022 x86_64) 
+[2022-09-02 20:50:52 : INFO] - MySQL: 10.3.25 
+[2022-09-02 20:50:52 : INFO] - WPLANG: en_US 
+[2022-09-02 20:50:52 : INFO] - Server: LiteSpeed 
+[2022-09-02 20:50:52 : INFO] - Outbound connections: N 
+[2022-09-02 20:50:52 : INFO] - safe_mode: 0 
+[2022-09-02 20:50:52 : INFO] - max_execution_time: 300 
+[2022-09-02 20:50:52 : INFO] - memory_limit: 2248M (used: 89M | 91M) 
+[2022-09-02 20:50:52 : INFO] - multisite: N 
+[2022-09-02 20:50:52 : INFO] - openssl: OpenSSL 1.1.1p  21 Jun 2022 
+[2022-09-02 20:50:56 : INFO] - A total of 128 tasks of type smush found and will be processed in this iteration 
+[2022-09-02 20:50:56 : DEBUG] - Lock option (updraft_lock_smush, wp_options) was created in the database 
+[2022-09-02 20:50:56 : INFO] - Lock (updraft_lock_smush, wp_options) acquired after initialising the database 
+[2022-09-02 20:50:56 : INFO] - Processing task with ID : 612, and type 'smush' 
+[2022-09-02 20:50:56 : INFO] - Task with ID 612 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2018/08/photo-1512686096451-a15c19314d59-1.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:50:56 : INFO] - Processing task with ID : 611, and type 'smush' 
+[2022-09-02 20:50:56 : INFO] - Task with ID 611 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2018/08/photo-1461749280684-dccba630e2f6-1.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:50:56 : INFO] - Processing task with ID : 584, and type 'smush' 
+[2022-09-02 20:50:56 : INFO] - Task with ID 584 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/Screenshot-2022-08-14-at-12.21.35-AM.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:50:56 : INFO] - Processing task with ID : 544, and type 'smush' 
+[2022-09-02 20:50:57 : INFO] - Task with ID 544 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/TG-Logo-BLACK-01-scaled.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:50:57 : INFO] - Processing task with ID : 531, and type 'smush' 
+[2022-09-02 20:50:57 : INFO] - Task with ID 531 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/Screenshot-2022-08-25-at-3.31.20-AM.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:50:57 : INFO] - Processing task with ID : 532, and type 'smush' 
+[2022-09-02 20:50:57 : INFO] - Task with ID 532 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/Screenshot-2022-08-25-at-4.04.23-AM.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:50:57 : INFO] - Processing task with ID : 533, and type 'smush' 
+[2022-09-02 20:50:57 : INFO] - Task with ID 533 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/Screenshot-2022-08-25-at-4.12.26-AM.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:50:57 : INFO] - Processing task with ID : 534, and type 'smush' 
+[2022-09-02 20:50:57 : INFO] - Task with ID 534 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/Screenshot-2022-08-25-at-4.17.37-AM.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:50:57 : INFO] - Processing task with ID : 535, and type 'smush' 
+[2022-09-02 20:50:57 : INFO] - Task with ID 535 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/Screenshot-2022-08-25-at-4.31.45-AM.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:50:57 : INFO] - Processing task with ID : 536, and type 'smush' 
+[2022-09-02 20:50:57 : INFO] - Task with ID 536 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/Screenshot-2022-08-25-at-4.41.27-AM.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:50:57 : INFO] - Processing task with ID : 537, and type 'smush' 
+[2022-09-02 20:50:57 : INFO] - Task with ID 537 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/Screenshot-2022-08-25-at-4.47.05-AM.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:50:57 : INFO] - Processing task with ID : 538, and type 'smush' 
+[2022-09-02 20:50:57 : INFO] - Task with ID 538 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/Screenshot-2022-08-26-at-1.29.50-PM.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:50:57 : INFO] - Processing task with ID : 539, and type 'smush' 
+[2022-09-02 20:50:57 : INFO] - Task with ID 539 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/Screenshot-2022-08-26-at-1.39.37-PM.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:50:57 : INFO] - Processing task with ID : 540, and type 'smush' 
+[2022-09-02 20:50:57 : INFO] - Task with ID 540 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/Screenshot-2022-08-26-at-1.53.09-PM.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:50:57 : INFO] - Processing task with ID : 541, and type 'smush' 
+[2022-09-02 20:50:57 : INFO] - Task with ID 541 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/Screenshot-2022-08-26-at-1.58.50-PM.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:50:57 : INFO] - Processing task with ID : 542, and type 'smush' 
+[2022-09-02 20:50:57 : INFO] - Task with ID 542 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/Screenshot-2022-08-26-at-2.04.58-PM.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:50:57 : INFO] - Processing task with ID : 543, and type 'smush' 
+[2022-09-02 20:50:57 : INFO] - Task with ID 543 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/TG-Logo-W-01-scaled.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:50:57 : INFO] - Processing task with ID : 657, and type 'smush' 
+[2022-09-02 20:50:57 : INFO] - Task with ID 657 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/B-4.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:50:57 : INFO] - Processing task with ID : 656, and type 'smush' 
+[2022-09-02 20:50:57 : INFO] - Task with ID 656 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/B-5.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:50:57 : INFO] - Processing task with ID : 655, and type 'smush' 
+[2022-09-02 20:50:57 : INFO] - Task with ID 655 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/01.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:50:57 : INFO] - Processing task with ID : 654, and type 'smush' 
+[2022-09-02 20:50:57 : INFO] - Task with ID 654 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/2-2.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:50:57 : INFO] - Processing task with ID : 653, and type 'smush' 
+[2022-09-02 20:50:57 : INFO] - Task with ID 653 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/02.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:50:57 : INFO] - Processing task with ID : 652, and type 'smush' 
+[2022-09-02 20:50:57 : INFO] - Task with ID 652 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/2-3.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:50:57 : INFO] - Processing task with ID : 651, and type 'smush' 
+[2022-09-02 20:50:57 : INFO] - Task with ID 651 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/5-1.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:50:57 : INFO] - Processing task with ID : 650, and type 'smush' 
+[2022-09-02 20:50:57 : INFO] - Task with ID 650 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/screenshot.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:50:57 : INFO] - Processing task with ID : 649, and type 'smush' 
+[2022-09-02 20:50:57 : INFO] - Task with ID 649 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/6-1.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:50:57 : INFO] - Processing task with ID : 648, and type 'smush' 
+[2022-09-02 20:50:57 : INFO] - Task with ID 648 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/Q.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:50:57 : INFO] - Processing task with ID : 647, and type 'smush' 
+[2022-09-02 20:50:57 : INFO] - Task with ID 647 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/A-6.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:50:57 : INFO] - Processing task with ID : 646, and type 'smush' 
+[2022-09-02 20:50:57 : INFO] - Task with ID 646 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/A-7.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:50:57 : INFO] - Processing task with ID : 645, and type 'smush' 
+[2022-09-02 20:50:57 : INFO] - Task with ID 645 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/A-8.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:50:57 : INFO] - Processing task with ID : 644, and type 'smush' 
+[2022-09-02 20:50:57 : INFO] - Task with ID 644 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/A-9.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:50:57 : INFO] - Processing task with ID : 643, and type 'smush' 
+[2022-09-02 20:50:57 : INFO] - Task with ID 643 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/TG-Logo-BLACK-01-1-scaled.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:50:57 : INFO] - Processing task with ID : 642, and type 'smush' 
+[2022-09-02 20:50:57 : INFO] - Task with ID 642 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/1-01-1.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:50:57 : INFO] - Processing task with ID : 641, and type 'smush' 
+[2022-09-02 20:50:57 : INFO] - Task with ID 641 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/2-01-2.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:50:57 : INFO] - Processing task with ID : 640, and type 'smush' 
+[2022-09-02 20:50:57 : INFO] - Task with ID 640 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/3-01-1.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:50:57 : INFO] - Processing task with ID : 639, and type 'smush' 
+[2022-09-02 20:50:57 : INFO] - Task with ID 639 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/4-01-1.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:50:57 : INFO] - Processing task with ID : 638, and type 'smush' 
+[2022-09-02 20:50:57 : INFO] - Task with ID 638 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/5-01-1.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:50:58 : INFO] - Processing task with ID : 637, and type 'smush' 
+[2022-09-02 20:50:58 : INFO] - Task with ID 637 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/6-01-1.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:50:58 : INFO] - Processing task with ID : 636, and type 'smush' 
+[2022-09-02 20:50:58 : INFO] - Task with ID 636 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/7-01-1.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:50:58 : INFO] - Processing task with ID : 635, and type 'smush' 
+[2022-09-02 20:50:58 : INFO] - Task with ID 635 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/8-01-1.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:50:58 : INFO] - Processing task with ID : 634, and type 'smush' 
+[2022-09-02 20:50:58 : INFO] - Task with ID 634 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/9-01.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:50:58 : INFO] - Processing task with ID : 633, and type 'smush' 
+[2022-09-02 20:50:58 : INFO] - Task with ID 633 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/10-01.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:50:58 : INFO] - Processing task with ID : 632, and type 'smush' 
+[2022-09-02 20:50:58 : INFO] - Task with ID 632 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/11-01.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:50:58 : INFO] - Processing task with ID : 631, and type 'smush' 
+[2022-09-02 20:50:58 : INFO] - Task with ID 631 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/12-01.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:50:58 : INFO] - Processing task with ID : 630, and type 'smush' 
+[2022-09-02 20:50:58 : INFO] - Task with ID 630 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/02/saurabh.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:50:58 : INFO] - Processing task with ID : 629, and type 'smush' 
+[2022-09-02 20:50:58 : INFO] - Task with ID 629 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/02/jatin.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:50:58 : INFO] - Processing task with ID : 628, and type 'smush' 
+[2022-09-02 20:50:58 : INFO] - Task with ID 628 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/02/kush.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:50:58 : INFO] - Processing task with ID : 627, and type 'smush' 
+[2022-09-02 20:50:58 : INFO] - Task with ID 627 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/pratishtha.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:50:58 : INFO] - Processing task with ID : 626, and type 'smush' 
+[2022-09-02 20:50:58 : INFO] - Task with ID 626 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/manvi.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:50:58 : INFO] - Processing task with ID : 625, and type 'smush' 
+[2022-09-02 20:50:58 : INFO] - Task with ID 625 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/akash.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:50:58 : INFO] - Processing task with ID : 624, and type 'smush' 
+[2022-09-02 20:50:58 : INFO] - Task with ID 624 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/ambuj.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:50:58 : INFO] - Processing task with ID : 623, and type 'smush' 
+[2022-09-02 20:50:58 : INFO] - Task with ID 623 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/mahima.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:50:58 : INFO] - Processing task with ID : 622, and type 'smush' 
+[2022-09-02 20:50:58 : INFO] - Task with ID 622 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/drishti.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:50:58 : INFO] - Processing task with ID : 621, and type 'smush' 
+[2022-09-02 20:50:58 : INFO] - Task with ID 621 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/02/Gitika.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:50:58 : INFO] - Processing task with ID : 620, and type 'smush' 
+[2022-09-02 20:50:58 : INFO] - Task with ID 620 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/02/luv.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:50:58 : INFO] - Processing task with ID : 619, and type 'smush' 
+[2022-09-02 20:50:58 : INFO] - Task with ID 619 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2018/05/course_image-1.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:50:58 : INFO] - Processing task with ID : 618, and type 'smush' 
+[2022-09-02 20:50:58 : INFO] - Task with ID 618 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2018/05/lesson_image-1.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:50:58 : INFO] - Processing task with ID : 617, and type 'smush' 
+[2022-09-02 20:50:58 : INFO] - Could not find file for image: ID=8946, file=/home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/1-01-01.webp 
+[2022-09-02 20:50:58 : INFO] - Task with ID 617 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2018/07/second_screen-1.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:50:58 : INFO] - Processing task with ID : 616, and type 'smush' 
+[2022-09-02 20:50:58 : INFO] - Task with ID 616 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2018/07/certificate-1.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:50:58 : INFO] - Processing task with ID : 615, and type 'smush' 
+[2022-09-02 20:50:58 : INFO] - Task with ID 615 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2018/08/photo-1416339134316-0e91dc9ded92-1.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:50:58 : INFO] - Processing task with ID : 614, and type 'smush' 
+[2022-09-02 20:50:58 : INFO] - Task with ID 614 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2018/08/photo-1513829596324-4bb2800c5efb-1.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:50:58 : INFO] - Processing task with ID : 613, and type 'smush' 
+[2022-09-02 20:50:58 : INFO] - Task with ID 613 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2018/08/photo-1507457379470-08b800bebc67-1-scaled.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:50:58 : INFO] - Processing task with ID : 610, and type 'smush' 
+[2022-09-02 20:50:58 : INFO] - Task with ID 610 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2020/04/a0003-1.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:50:58 : INFO] - Processing task with ID : 609, and type 'smush' 
+[2022-09-02 20:50:58 : INFO] - Task with ID 609 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2020/04/a0002-1-1.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:50:58 : INFO] - Processing task with ID : 608, and type 'smush' 
+[2022-09-02 20:50:58 : INFO] - Task with ID 608 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2020/05/woman-standing-in-hallway-while-holding-book-1462630-scaled-2.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:50:58 : INFO] - Processing task with ID : 607, and type 'smush' 
+[2022-09-02 20:50:58 : INFO] - Task with ID 607 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2020/05/bg-1.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:50:58 : INFO] - Processing task with ID : 606, and type 'smush' 
+[2022-09-02 20:50:58 : INFO] - Task with ID 606 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2020/05/zoom-bg_03-1.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:50:58 : INFO] - Processing task with ID : 605, and type 'smush' 
+[2022-09-02 20:50:58 : INFO] - Task with ID 605 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2020/05/1-1.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:50:58 : INFO] - Processing task with ID : 604, and type 'smush' 
+[2022-09-02 20:50:58 : INFO] - Task with ID 604 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2020/05/2-1-1.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:50:58 : INFO] - Processing task with ID : 603, and type 'smush' 
+[2022-09-02 20:50:58 : INFO] - Task with ID 603 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2020/05/3-1.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:50:58 : INFO] - Processing task with ID : 602, and type 'smush' 
+[2022-09-02 20:50:58 : INFO] - Task with ID 602 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2020/05/logo-2-1.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:50:58 : INFO] - Processing task with ID : 601, and type 'smush' 
+[2022-09-02 20:50:58 : INFO] - Task with ID 601 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2020/05/robert-richards-1-1.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:50:58 : INFO] - Processing task with ID : 600, and type 'smush' 
+[2022-09-02 20:50:58 : INFO] - Task with ID 600 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2020/05/Distance_Learning__03-1.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:50:58 : INFO] - Processing task with ID : 599, and type 'smush' 
+[2022-09-02 20:50:58 : INFO] - Task with ID 599 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2020/05/Distance_Learning2_03-1.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:50:58 : INFO] - Processing task with ID : 598, and type 'smush' 
+[2022-09-02 20:50:58 : INFO] - Task with ID 598 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2020/05/Distance_Learning3_06-1.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:50:59 : INFO] - Processing task with ID : 597, and type 'smush' 
+[2022-09-02 20:50:59 : INFO] - Task with ID 597 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2020/05/video-1.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:50:59 : INFO] - Processing task with ID : 596, and type 'smush' 
+[2022-09-02 20:50:59 : INFO] - Task with ID 596 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2020/05/isotope-1.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:50:59 : INFO] - Processing task with ID : 595, and type 'smush' 
+[2022-09-02 20:50:59 : INFO] - Task with ID 595 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2020/05/header-1.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:50:59 : INFO] - Processing task with ID : 594, and type 'smush' 
+[2022-09-02 20:50:59 : INFO] - Task with ID 594 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/woocommerce-placeholder.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:50:59 : INFO] - Processing task with ID : 593, and type 'smush' 
+[2022-09-02 20:50:59 : INFO] - Task with ID 593 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/TG-Logo-Small.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:50:59 : INFO] - Processing task with ID : 592, and type 'smush' 
+[2022-09-02 20:50:59 : INFO] - Task with ID 592 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/Screenshot-2022-08-14-at-12.14.56-AM.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:50:59 : INFO] - Processing task with ID : 591, and type 'smush' 
+[2022-09-02 20:50:59 : INFO] - Task with ID 591 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/Screenshot-2022-08-14-at-12.16.29-AM.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:50:59 : INFO] - Processing task with ID : 590, and type 'smush' 
+[2022-09-02 20:50:59 : INFO] - Task with ID 590 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/Screenshot-2022-08-14-at-12.23.07-AM.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:50:59 : INFO] - Processing task with ID : 589, and type 'smush' 
+[2022-09-02 20:50:59 : INFO] - Task with ID 589 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/Screenshot-2022-08-14-at-12.22.50-AM.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:50:59 : INFO] - Processing task with ID : 588, and type 'smush' 
+[2022-09-02 20:50:59 : INFO] - Task with ID 588 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/Screenshot-2022-08-14-at-12.22.23-AM.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:50:59 : INFO] - Processing task with ID : 587, and type 'smush' 
+[2022-09-02 20:50:59 : INFO] - Task with ID 587 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/Screenshot-2022-08-14-at-12.22.03-AM.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:50:59 : INFO] - Processing task with ID : 586, and type 'smush' 
+[2022-09-02 20:50:59 : INFO] - Task with ID 586 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/TG-Logo-black-font-.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:50:59 : INFO] - Processing task with ID : 585, and type 'smush' 
+[2022-09-02 20:50:59 : INFO] - Task with ID 585 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/istockphoto-1179260707-612x612-1.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:50:59 : INFO] - Processing task with ID : 583, and type 'smush' 
+[2022-09-02 20:50:59 : INFO] - Task with ID 583 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/other-small.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:50:59 : INFO] - Processing task with ID : 582, and type 'smush' 
+[2022-09-02 20:50:59 : INFO] - Task with ID 582 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/TG-favicon-new.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:50:59 : INFO] - Processing task with ID : 581, and type 'smush' 
+[2022-09-02 20:50:59 : INFO] - Task with ID 581 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/Faded-orange-back.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:50:59 : INFO] - Processing task with ID : 580, and type 'smush' 
+[2022-09-02 20:50:59 : INFO] - Task with ID 580 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/istockphoto-1152410679-612x612-1.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:50:59 : INFO] - Processing task with ID : 579, and type 'smush' 
+[2022-09-02 20:50:59 : INFO] - Task with ID 579 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/1-01.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:50:59 : INFO] - Processing task with ID : 578, and type 'smush' 
+[2022-09-02 20:50:59 : INFO] - Task with ID 578 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/2-01.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:50:59 : INFO] - Processing task with ID : 577, and type 'smush' 
+[2022-09-02 20:50:59 : INFO] - Task with ID 577 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/1-01.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:50:59 : INFO] - Processing task with ID : 576, and type 'smush' 
+[2022-09-02 20:50:59 : INFO] - Task with ID 576 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/1-01-1.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:50:59 : INFO] - Processing task with ID : 575, and type 'smush' 
+[2022-09-02 20:50:59 : INFO] - Task with ID 575 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/1.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:50:59 : INFO] - Processing task with ID : 574, and type 'smush' 
+[2022-09-02 20:50:59 : INFO] - Task with ID 574 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/3.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:50:59 : INFO] - Processing task with ID : 573, and type 'smush' 
+[2022-09-02 20:50:59 : INFO] - Task with ID 573 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/4.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:50:59 : INFO] - Processing task with ID : 572, and type 'smush' 
+[2022-09-02 20:50:59 : INFO] - Task with ID 572 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/6.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:50:59 : INFO] - Processing task with ID : 571, and type 'smush' 
+[2022-09-02 20:50:59 : INFO] - Task with ID 571 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/7.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:50:59 : INFO] - Processing task with ID : 570, and type 'smush' 
+[2022-09-02 20:50:59 : INFO] - Task with ID 570 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/10.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:50:59 : INFO] - Processing task with ID : 569, and type 'smush' 
+[2022-09-02 20:50:59 : INFO] - Task with ID 569 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/05.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:50:59 : INFO] - Processing task with ID : 568, and type 'smush' 
+[2022-09-02 20:50:59 : INFO] - Task with ID 568 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/11.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:50:59 : INFO] - Processing task with ID : 567, and type 'smush' 
+[2022-09-02 20:50:59 : INFO] - Task with ID 567 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/12.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:50:59 : INFO] - Processing task with ID : 566, and type 'smush' 
+[2022-09-02 20:50:59 : INFO] - Task with ID 566 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/asdf1.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:50:59 : INFO] - Processing task with ID : 565, and type 'smush' 
+[2022-09-02 20:50:59 : INFO] - Task with ID 565 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/asdf2.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:50:59 : INFO] - Processing task with ID : 564, and type 'smush' 
+[2022-09-02 20:50:59 : INFO] - Task with ID 564 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/asdf1-1.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:50:59 : INFO] - Processing task with ID : 563, and type 'smush' 
+[2022-09-02 20:50:59 : INFO] - Task with ID 563 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/Screenshot-2022-08-27-at-1.39.18-AM.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:50:59 : INFO] - Processing task with ID : 562, and type 'smush' 
+[2022-09-02 20:50:59 : INFO] - Task with ID 562 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/10.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:50:59 : INFO] - Processing task with ID : 561, and type 'smush' 
+[2022-09-02 20:50:59 : INFO] - Task with ID 561 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/111.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:50:59 : INFO] - Processing task with ID : 560, and type 'smush' 
+[2022-09-02 20:50:59 : INFO] - Task with ID 560 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/111-1.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:50:59 : INFO] - Processing task with ID : 559, and type 'smush' 
+[2022-09-02 20:50:59 : INFO] - Task with ID 559 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/111-2.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:50:59 : INFO] - Processing task with ID : 558, and type 'smush' 
+[2022-09-02 20:50:59 : INFO] - Task with ID 558 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/111-3.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:50:59 : INFO] - Processing task with ID : 557, and type 'smush' 
+[2022-09-02 20:50:59 : INFO] - Task with ID 557 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/111-4.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:50:59 : INFO] - Processing task with ID : 556, and type 'smush' 
+[2022-09-02 20:50:59 : INFO] - Task with ID 556 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/a-4.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:50:59 : INFO] - Processing task with ID : 555, and type 'smush' 
+[2022-09-02 20:50:59 : INFO] - Task with ID 555 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/a-3.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:50:59 : INFO] - Processing task with ID : 554, and type 'smush' 
+[2022-09-02 20:50:59 : INFO] - Task with ID 554 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/a-2.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:50:59 : INFO] - Processing task with ID : 553, and type 'smush' 
+[2022-09-02 20:50:59 : INFO] - Task with ID 553 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/a-1.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:50:59 : INFO] - Processing task with ID : 552, and type 'smush' 
+[2022-09-02 20:50:59 : INFO] - Task with ID 552 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/Screenshot-2022-08-27-at-1.40.35-AM.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:50:59 : INFO] - Processing task with ID : 551, and type 'smush' 
+[2022-09-02 20:50:59 : INFO] - Task with ID 551 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/Screenshot-2022-08-27-at-1.39.38-AM.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:50:59 : INFO] - Processing task with ID : 550, and type 'smush' 
+[2022-09-02 20:50:59 : INFO] - Task with ID 550 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/Screenshot-2022-08-27-at-1.42.09-AM.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:50:59 : INFO] - Processing task with ID : 549, and type 'smush' 
+[2022-09-02 20:50:59 : INFO] - Task with ID 549 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/Screenshot-2022-08-27-at-1.20.58-AM.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:50:59 : INFO] - Processing task with ID : 548, and type 'smush' 
+[2022-09-02 20:50:59 : INFO] - Task with ID 548 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/Screenshot-2022-08-27-at-1.21.26-AM.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:50:59 : INFO] - Processing task with ID : 547, and type 'smush' 
+[2022-09-02 20:50:59 : INFO] - Task with ID 547 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/Screenshot-2022-08-27-at-12.41.54-AM.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:50:59 : INFO] - Processing task with ID : 546, and type 'smush' 
+[2022-09-02 20:50:59 : INFO] - Task with ID 546 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/Screenshot-2022-08-27-at-12.42.22-AM.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:50:59 : INFO] - Processing task with ID : 545, and type 'smush' 
+[2022-09-02 20:50:59 : INFO] - Task with ID 545 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/Screenshot-2022-08-27-at-12.35.03-AM.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:50:59 : INFO] - Processing task with ID : 530, and type 'smush' 
+[2022-09-02 20:50:59 : INFO] - Task with ID 530 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/Screenshot-2022-08-25-at-3.30.36-AM.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:50:59 : INFO] - Lock option (updraft_lock_smush, wp_options) released 
+[2022-09-02 20:50:59 : INFO] - Successfully processed the queue (smush). 128 tasks were processed out of 128. 
+[2022-09-02 20:50:59 : INFO] - Lock option (updraft_lock_smush, wp_options) was deleted from the database 
+[2022-09-02 20:51:00 : INFO] - Cleaning up tasks of type (smush). A total of 128 tasks will be deleted. 
+[2022-09-02 20:51:00 : INFO] - Could not find file for image: ID=8946, file=/home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/1-01-01.webp 
+[2022-09-02 20:51:03 : INFO] - Could not find file for image: ID=8946, file=/home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/1-01-01.webp 
+[2022-09-02 20:51:10 : INFO] - Could not find file for image: ID=8946, file=/home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/1-01-01.webp 
+[2022-09-02 20:51:11 : INFO] - Could not find file for image: ID=8946, file=/home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/1-01-01.webp 
+[2022-09-02 20:51:17 : INFO] - Could not find file for image: ID=8946, file=/home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/1-01-01.webp 
+[2022-09-02 20:55:20 : INFO] - Could not find file for image: ID=8946, file=/home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/1-01-01.webp 
+[2022-09-02 20:55:35 : INFO] - Re_Smush_It_Task server status: Online 
+[2022-09-02 20:55:41 : INFO] - Could not find file for image: ID=8946, file=/home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/1-01-01.webp 
+[2022-09-02 20:55:41 : INFO] - 
+ 
+[2022-09-02 20:55:41 : INFO] - Header for logs at time:  Fri, 02 Sep 2022 20:55:41 +0000 on https://tathagat.co.in/online 
+[2022-09-02 20:55:41 : INFO] - WP: 6.0.2 
+[2022-09-02 20:55:41 : INFO] - PHP: 8.0.22 (litespeed, Linux us511.directrouter.com 3.10.0-962.3.2.lve1.5.70.el7.x86_64 #1 SMP Mon May 30 08:45:55 UTC 2022 x86_64) 
+[2022-09-02 20:55:41 : INFO] - MySQL: 10.3.25 
+[2022-09-02 20:55:41 : INFO] - WPLANG: en_US 
+[2022-09-02 20:55:41 : INFO] - Server: LiteSpeed 
+[2022-09-02 20:55:41 : INFO] - Outbound connections: N 
+[2022-09-02 20:55:41 : INFO] - safe_mode: 0 
+[2022-09-02 20:55:41 : INFO] - max_execution_time: 300 
+[2022-09-02 20:55:41 : INFO] - memory_limit: 2248M (used: 89.3M | 93M) 
+[2022-09-02 20:55:41 : INFO] - multisite: N 
+[2022-09-02 20:55:41 : INFO] - openssl: OpenSSL 1.1.1p  21 Jun 2022 
+[2022-09-02 20:55:45 : INFO] - Could not find file for image: ID=8946, file=/home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/1-01-01.webp 
+[2022-09-02 20:55:48 : INFO] - A total of 128 tasks of type smush found and will be processed in this iteration 
+[2022-09-02 20:55:48 : DEBUG] - Lock option (updraft_lock_smush, wp_options) was created in the database 
+[2022-09-02 20:55:48 : INFO] - Lock (updraft_lock_smush, wp_options) acquired after initialising the database 
+[2022-09-02 20:55:48 : INFO] - Processing task with ID : 746, and type 'smush' 
+[2022-09-02 20:55:48 : INFO] - Task with ID 746 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2018/05/lesson_image-1.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:55:48 : INFO] - Processing task with ID : 745, and type 'smush' 
+[2022-09-02 20:55:48 : INFO] - Task with ID 745 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2018/07/second_screen-1.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:55:48 : INFO] - Processing task with ID : 742, and type 'smush' 
+[2022-09-02 20:55:48 : INFO] - Task with ID 742 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2018/08/photo-1513829596324-4bb2800c5efb-1.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:55:48 : INFO] - Processing task with ID : 743, and type 'smush' 
+[2022-09-02 20:55:48 : INFO] - Task with ID 743 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2018/08/photo-1416339134316-0e91dc9ded92-1.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:55:48 : INFO] - Processing task with ID : 744, and type 'smush' 
+[2022-09-02 20:55:48 : INFO] - Task with ID 744 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2018/07/certificate-1.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:55:48 : INFO] - Processing task with ID : 741, and type 'smush' 
+[2022-09-02 20:55:48 : INFO] - Task with ID 741 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2018/08/photo-1507457379470-08b800bebc67-1-scaled.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:55:48 : INFO] - Processing task with ID : 714, and type 'smush' 
+[2022-09-02 20:55:48 : INFO] - Task with ID 714 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/TG-Logo-black-font-.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:55:48 : INFO] - Processing task with ID : 679, and type 'smush' 
+[2022-09-02 20:55:48 : INFO] - Task with ID 679 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/Screenshot-2022-08-27-at-1.39.38-AM.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:55:48 : INFO] - Processing task with ID : 678, and type 'smush' 
+[2022-09-02 20:55:48 : INFO] - Task with ID 678 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/Screenshot-2022-08-27-at-1.42.09-AM.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:55:48 : INFO] - Processing task with ID : 661, and type 'smush' 
+[2022-09-02 20:55:48 : INFO] - Task with ID 661 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/Screenshot-2022-08-25-at-4.12.26-AM.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:55:48 : INFO] - Processing task with ID : 662, and type 'smush' 
+[2022-09-02 20:55:48 : INFO] - Task with ID 662 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/Screenshot-2022-08-25-at-4.17.37-AM.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:55:48 : INFO] - Processing task with ID : 663, and type 'smush' 
+[2022-09-02 20:55:48 : INFO] - Task with ID 663 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/Screenshot-2022-08-25-at-4.31.45-AM.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:55:48 : INFO] - Processing task with ID : 664, and type 'smush' 
+[2022-09-02 20:55:48 : INFO] - Task with ID 664 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/Screenshot-2022-08-25-at-4.41.27-AM.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:55:48 : INFO] - Processing task with ID : 665, and type 'smush' 
+[2022-09-02 20:55:48 : INFO] - Task with ID 665 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/Screenshot-2022-08-25-at-4.47.05-AM.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:55:48 : INFO] - Processing task with ID : 666, and type 'smush' 
+[2022-09-02 20:55:48 : INFO] - Task with ID 666 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/Screenshot-2022-08-26-at-1.29.50-PM.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:55:48 : INFO] - Processing task with ID : 667, and type 'smush' 
+[2022-09-02 20:55:48 : INFO] - Task with ID 667 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/Screenshot-2022-08-26-at-1.39.37-PM.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:55:48 : INFO] - Processing task with ID : 668, and type 'smush' 
+[2022-09-02 20:55:48 : INFO] - Task with ID 668 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/Screenshot-2022-08-26-at-1.53.09-PM.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:55:48 : INFO] - Processing task with ID : 669, and type 'smush' 
+[2022-09-02 20:55:49 : INFO] - Task with ID 669 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/Screenshot-2022-08-26-at-1.58.50-PM.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:55:49 : INFO] - Processing task with ID : 670, and type 'smush' 
+[2022-09-02 20:55:49 : INFO] - Task with ID 670 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/Screenshot-2022-08-26-at-2.04.58-PM.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:55:49 : INFO] - Processing task with ID : 671, and type 'smush' 
+[2022-09-02 20:55:49 : INFO] - Task with ID 671 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/TG-Logo-W-01-scaled.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:55:49 : INFO] - Could not find file for image: ID=8946, file=/home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/1-01-01.webp 
+[2022-09-02 20:55:49 : INFO] - Processing task with ID : 672, and type 'smush' 
+[2022-09-02 20:55:49 : INFO] - Task with ID 672 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/TG-Logo-BLACK-01-scaled.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:55:49 : INFO] - Processing task with ID : 673, and type 'smush' 
+[2022-09-02 20:55:49 : INFO] - Task with ID 673 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/Screenshot-2022-08-27-at-12.35.03-AM.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:55:49 : INFO] - Processing task with ID : 674, and type 'smush' 
+[2022-09-02 20:55:49 : INFO] - Task with ID 674 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/Screenshot-2022-08-27-at-12.42.22-AM.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:55:49 : INFO] - Processing task with ID : 675, and type 'smush' 
+[2022-09-02 20:55:49 : INFO] - Task with ID 675 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/Screenshot-2022-08-27-at-12.41.54-AM.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:55:49 : INFO] - Processing task with ID : 676, and type 'smush' 
+[2022-09-02 20:55:49 : INFO] - Task with ID 676 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/Screenshot-2022-08-27-at-1.21.26-AM.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:55:49 : INFO] - Processing task with ID : 677, and type 'smush' 
+[2022-09-02 20:55:49 : INFO] - Task with ID 677 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/Screenshot-2022-08-27-at-1.20.58-AM.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:55:49 : INFO] - Processing task with ID : 785, and type 'smush' 
+[2022-09-02 20:55:49 : INFO] - Task with ID 785 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/B-4.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:55:49 : INFO] - Processing task with ID : 784, and type 'smush' 
+[2022-09-02 20:55:49 : INFO] - Task with ID 784 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/B-5.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:55:49 : INFO] - Processing task with ID : 783, and type 'smush' 
+[2022-09-02 20:55:49 : INFO] - Task with ID 783 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/01.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:55:49 : INFO] - Processing task with ID : 782, and type 'smush' 
+[2022-09-02 20:55:49 : INFO] - Task with ID 782 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/2-2.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:55:49 : INFO] - Processing task with ID : 781, and type 'smush' 
+[2022-09-02 20:55:49 : INFO] - Task with ID 781 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/02.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:55:49 : INFO] - Processing task with ID : 780, and type 'smush' 
+[2022-09-02 20:55:49 : INFO] - Task with ID 780 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/2-3.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:55:49 : INFO] - Processing task with ID : 779, and type 'smush' 
+[2022-09-02 20:55:49 : INFO] - Task with ID 779 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/5-1.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:55:49 : INFO] - Processing task with ID : 778, and type 'smush' 
+[2022-09-02 20:55:49 : INFO] - Task with ID 778 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/screenshot.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:55:49 : INFO] - Processing task with ID : 777, and type 'smush' 
+[2022-09-02 20:55:49 : INFO] - Task with ID 777 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/6-1.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:55:49 : INFO] - Processing task with ID : 776, and type 'smush' 
+[2022-09-02 20:55:49 : INFO] - Task with ID 776 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/Q.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:55:49 : INFO] - Processing task with ID : 775, and type 'smush' 
+[2022-09-02 20:55:49 : INFO] - Task with ID 775 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/A-6.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:55:49 : INFO] - Processing task with ID : 774, and type 'smush' 
+[2022-09-02 20:55:49 : INFO] - Task with ID 774 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/A-7.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:55:49 : INFO] - Processing task with ID : 773, and type 'smush' 
+[2022-09-02 20:55:49 : INFO] - Task with ID 773 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/A-8.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:55:49 : INFO] - Processing task with ID : 772, and type 'smush' 
+[2022-09-02 20:55:49 : INFO] - Task with ID 772 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/A-9.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:55:49 : INFO] - Processing task with ID : 771, and type 'smush' 
+[2022-09-02 20:55:49 : INFO] - Task with ID 771 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/TG-Logo-BLACK-01-1-scaled.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:55:49 : INFO] - Processing task with ID : 770, and type 'smush' 
+[2022-09-02 20:55:50 : INFO] - Task with ID 770 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/1-01-1.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:55:50 : INFO] - Processing task with ID : 769, and type 'smush' 
+[2022-09-02 20:55:50 : INFO] - Task with ID 769 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/2-01-2.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:55:50 : INFO] - Processing task with ID : 768, and type 'smush' 
+[2022-09-02 20:55:50 : INFO] - Task with ID 768 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/3-01-1.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:55:50 : INFO] - Processing task with ID : 767, and type 'smush' 
+[2022-09-02 20:55:50 : INFO] - Task with ID 767 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/4-01-1.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:55:50 : INFO] - Processing task with ID : 766, and type 'smush' 
+[2022-09-02 20:55:50 : INFO] - Task with ID 766 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/5-01-1.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:55:50 : INFO] - Processing task with ID : 765, and type 'smush' 
+[2022-09-02 20:55:50 : INFO] - Task with ID 765 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/6-01-1.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:55:50 : INFO] - Processing task with ID : 764, and type 'smush' 
+[2022-09-02 20:55:50 : INFO] - Task with ID 764 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/7-01-1.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:55:50 : INFO] - Processing task with ID : 763, and type 'smush' 
+[2022-09-02 20:55:50 : INFO] - Task with ID 763 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/8-01-1.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:55:50 : INFO] - Processing task with ID : 762, and type 'smush' 
+[2022-09-02 20:55:50 : INFO] - Task with ID 762 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/9-01.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:55:50 : INFO] - Processing task with ID : 761, and type 'smush' 
+[2022-09-02 20:55:50 : INFO] - Task with ID 761 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/10-01.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:55:50 : INFO] - Processing task with ID : 760, and type 'smush' 
+[2022-09-02 20:55:50 : INFO] - Task with ID 760 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/11-01.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:55:50 : INFO] - Processing task with ID : 759, and type 'smush' 
+[2022-09-02 20:55:50 : INFO] - Task with ID 759 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/12-01.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:55:50 : INFO] - Processing task with ID : 758, and type 'smush' 
+[2022-09-02 20:55:50 : INFO] - Task with ID 758 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/02/saurabh.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:55:50 : INFO] - Processing task with ID : 757, and type 'smush' 
+[2022-09-02 20:55:50 : INFO] - Task with ID 757 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/02/jatin.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:55:50 : INFO] - Processing task with ID : 756, and type 'smush' 
+[2022-09-02 20:55:50 : INFO] - Task with ID 756 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/02/kush.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:55:50 : INFO] - Processing task with ID : 755, and type 'smush' 
+[2022-09-02 20:55:50 : INFO] - Task with ID 755 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/pratishtha.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:55:50 : INFO] - Processing task with ID : 754, and type 'smush' 
+[2022-09-02 20:55:50 : INFO] - Task with ID 754 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/manvi.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:55:50 : INFO] - Processing task with ID : 753, and type 'smush' 
+[2022-09-02 20:55:50 : INFO] - Task with ID 753 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/akash.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:55:50 : INFO] - Processing task with ID : 752, and type 'smush' 
+[2022-09-02 20:55:50 : INFO] - Task with ID 752 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/ambuj.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:55:50 : INFO] - Processing task with ID : 751, and type 'smush' 
+[2022-09-02 20:55:50 : INFO] - Task with ID 751 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/mahima.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:55:50 : INFO] - Processing task with ID : 750, and type 'smush' 
+[2022-09-02 20:55:50 : INFO] - Task with ID 750 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/drishti.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:55:50 : INFO] - Processing task with ID : 749, and type 'smush' 
+[2022-09-02 20:55:50 : INFO] - Task with ID 749 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/02/Gitika.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:55:50 : INFO] - Processing task with ID : 748, and type 'smush' 
+[2022-09-02 20:55:50 : INFO] - Task with ID 748 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/02/luv.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:55:50 : INFO] - Processing task with ID : 747, and type 'smush' 
+[2022-09-02 20:55:51 : INFO] - Task with ID 747 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2018/05/course_image-1.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:55:51 : INFO] - Processing task with ID : 740, and type 'smush' 
+[2022-09-02 20:55:51 : INFO] - Task with ID 740 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2018/08/photo-1512686096451-a15c19314d59-1.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:55:51 : INFO] - Processing task with ID : 739, and type 'smush' 
+[2022-09-02 20:55:51 : INFO] - Task with ID 739 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2018/08/photo-1461749280684-dccba630e2f6-1.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:55:51 : INFO] - Processing task with ID : 738, and type 'smush' 
+[2022-09-02 20:55:51 : INFO] - Task with ID 738 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2020/04/a0003-1.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:55:51 : INFO] - Processing task with ID : 737, and type 'smush' 
+[2022-09-02 20:55:51 : INFO] - Task with ID 737 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2020/04/a0002-1-1.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:55:51 : INFO] - Could not find file for image: ID=8946, file=/home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/1-01-01.webp 
+[2022-09-02 20:55:51 : INFO] - Processing task with ID : 736, and type 'smush' 
+[2022-09-02 20:55:51 : INFO] - Task with ID 736 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2020/05/woman-standing-in-hallway-while-holding-book-1462630-scaled-2.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:55:51 : INFO] - Processing task with ID : 735, and type 'smush' 
+[2022-09-02 20:55:51 : INFO] - Task with ID 735 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2020/05/bg-1.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:55:51 : INFO] - Processing task with ID : 734, and type 'smush' 
+[2022-09-02 20:55:51 : INFO] - Task with ID 734 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2020/05/zoom-bg_03-1.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:55:51 : INFO] - Processing task with ID : 733, and type 'smush' 
+[2022-09-02 20:55:51 : INFO] - Task with ID 733 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2020/05/1-1.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:55:51 : INFO] - Processing task with ID : 732, and type 'smush' 
+[2022-09-02 20:55:51 : INFO] - Task with ID 732 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2020/05/2-1-1.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:55:51 : INFO] - Processing task with ID : 731, and type 'smush' 
+[2022-09-02 20:55:51 : INFO] - Task with ID 731 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2020/05/3-1.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:55:51 : INFO] - Processing task with ID : 730, and type 'smush' 
+[2022-09-02 20:55:51 : INFO] - Task with ID 730 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2020/05/logo-2-1.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:55:51 : INFO] - Processing task with ID : 729, and type 'smush' 
+[2022-09-02 20:55:51 : INFO] - Task with ID 729 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2020/05/robert-richards-1-1.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:55:51 : INFO] - Processing task with ID : 728, and type 'smush' 
+[2022-09-02 20:55:51 : INFO] - Task with ID 728 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2020/05/Distance_Learning__03-1.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:55:51 : INFO] - Processing task with ID : 727, and type 'smush' 
+[2022-09-02 20:55:51 : INFO] - Task with ID 727 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2020/05/Distance_Learning2_03-1.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:55:51 : INFO] - Processing task with ID : 726, and type 'smush' 
+[2022-09-02 20:55:51 : INFO] - Task with ID 726 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2020/05/Distance_Learning3_06-1.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:55:51 : INFO] - Processing task with ID : 725, and type 'smush' 
+[2022-09-02 20:55:51 : INFO] - Task with ID 725 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2020/05/video-1.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:55:51 : INFO] - Processing task with ID : 724, and type 'smush' 
+[2022-09-02 20:55:51 : INFO] - Task with ID 724 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2020/05/isotope-1.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:55:51 : INFO] - Processing task with ID : 723, and type 'smush' 
+[2022-09-02 20:55:51 : INFO] - Task with ID 723 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2020/05/header-1.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:55:51 : INFO] - Processing task with ID : 722, and type 'smush' 
+[2022-09-02 20:55:51 : INFO] - Task with ID 722 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/woocommerce-placeholder.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:55:51 : INFO] - Processing task with ID : 721, and type 'smush' 
+[2022-09-02 20:55:51 : INFO] - Task with ID 721 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/TG-Logo-Small.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:55:51 : INFO] - Processing task with ID : 720, and type 'smush' 
+[2022-09-02 20:55:51 : INFO] - Task with ID 720 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/Screenshot-2022-08-14-at-12.14.56-AM.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:55:52 : INFO] - Processing task with ID : 719, and type 'smush' 
+[2022-09-02 20:55:52 : INFO] - Task with ID 719 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/Screenshot-2022-08-14-at-12.16.29-AM.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:55:52 : INFO] - Processing task with ID : 718, and type 'smush' 
+[2022-09-02 20:55:52 : INFO] - Task with ID 718 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/Screenshot-2022-08-14-at-12.23.07-AM.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:55:52 : INFO] - Processing task with ID : 717, and type 'smush' 
+[2022-09-02 20:55:52 : INFO] - Task with ID 717 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/Screenshot-2022-08-14-at-12.22.50-AM.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:55:52 : INFO] - Processing task with ID : 716, and type 'smush' 
+[2022-09-02 20:55:52 : INFO] - Task with ID 716 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/Screenshot-2022-08-14-at-12.22.23-AM.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:55:52 : INFO] - Processing task with ID : 715, and type 'smush' 
+[2022-09-02 20:55:52 : INFO] - Task with ID 715 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/Screenshot-2022-08-14-at-12.22.03-AM.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:55:52 : INFO] - Processing task with ID : 713, and type 'smush' 
+[2022-09-02 20:55:52 : INFO] - Task with ID 713 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/istockphoto-1179260707-612x612-1.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:55:52 : INFO] - Processing task with ID : 712, and type 'smush' 
+[2022-09-02 20:55:52 : INFO] - Task with ID 712 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/Screenshot-2022-08-14-at-12.21.35-AM.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:55:52 : INFO] - Processing task with ID : 711, and type 'smush' 
+[2022-09-02 20:55:52 : INFO] - Task with ID 711 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/other-small.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:55:52 : INFO] - Processing task with ID : 710, and type 'smush' 
+[2022-09-02 20:55:52 : INFO] - Task with ID 710 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/TG-favicon-new.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:55:52 : INFO] - Processing task with ID : 709, and type 'smush' 
+[2022-09-02 20:55:52 : INFO] - Task with ID 709 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/Faded-orange-back.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:55:52 : INFO] - Processing task with ID : 708, and type 'smush' 
+[2022-09-02 20:55:52 : INFO] - Task with ID 708 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/istockphoto-1152410679-612x612-1.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:55:52 : INFO] - Processing task with ID : 707, and type 'smush' 
+[2022-09-02 20:55:52 : INFO] - Task with ID 707 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/1-01.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:55:52 : INFO] - Processing task with ID : 706, and type 'smush' 
+[2022-09-02 20:55:52 : INFO] - Task with ID 706 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/2-01.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:55:52 : INFO] - Processing task with ID : 705, and type 'smush' 
+[2022-09-02 20:55:53 : INFO] - Task with ID 705 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/1-01.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:55:53 : INFO] - Processing task with ID : 704, and type 'smush' 
+[2022-09-02 20:55:53 : INFO] - Task with ID 704 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/1-01-1.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:55:53 : INFO] - Processing task with ID : 703, and type 'smush' 
+[2022-09-02 20:55:53 : INFO] - Task with ID 703 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/1.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:55:53 : INFO] - Processing task with ID : 702, and type 'smush' 
+[2022-09-02 20:55:53 : INFO] - Task with ID 702 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/3.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:55:53 : INFO] - Processing task with ID : 701, and type 'smush' 
+[2022-09-02 20:55:53 : INFO] - Task with ID 701 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/4.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:55:53 : INFO] - Processing task with ID : 700, and type 'smush' 
+[2022-09-02 20:55:53 : INFO] - Task with ID 700 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/6.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:55:53 : INFO] - Processing task with ID : 699, and type 'smush' 
+[2022-09-02 20:55:53 : INFO] - Task with ID 699 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/7.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:55:53 : INFO] - Processing task with ID : 698, and type 'smush' 
+[2022-09-02 20:55:53 : INFO] - Task with ID 698 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/10.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:55:53 : INFO] - Processing task with ID : 697, and type 'smush' 
+[2022-09-02 20:55:53 : INFO] - Task with ID 697 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/05.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:55:53 : INFO] - Processing task with ID : 696, and type 'smush' 
+[2022-09-02 20:55:53 : INFO] - Task with ID 696 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/11.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:55:53 : INFO] - Processing task with ID : 695, and type 'smush' 
+[2022-09-02 20:55:53 : INFO] - Task with ID 695 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/12.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:55:53 : INFO] - Processing task with ID : 694, and type 'smush' 
+[2022-09-02 20:55:53 : INFO] - Task with ID 694 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/asdf1.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:55:53 : INFO] - Processing task with ID : 693, and type 'smush' 
+[2022-09-02 20:55:53 : INFO] - Task with ID 693 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/asdf2.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:55:53 : INFO] - Processing task with ID : 692, and type 'smush' 
+[2022-09-02 20:55:53 : INFO] - Task with ID 692 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/asdf1-1.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:55:53 : INFO] - Processing task with ID : 691, and type 'smush' 
+[2022-09-02 20:55:53 : INFO] - Task with ID 691 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/Screenshot-2022-08-27-at-1.39.18-AM.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:55:54 : INFO] - Processing task with ID : 690, and type 'smush' 
+[2022-09-02 20:55:54 : INFO] - Task with ID 690 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/10.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:55:54 : INFO] - Processing task with ID : 689, and type 'smush' 
+[2022-09-02 20:55:54 : INFO] - Task with ID 689 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/111.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:55:54 : INFO] - Processing task with ID : 688, and type 'smush' 
+[2022-09-02 20:55:54 : INFO] - Task with ID 688 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/111-1.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:55:54 : INFO] - Processing task with ID : 687, and type 'smush' 
+[2022-09-02 20:55:54 : INFO] - Task with ID 687 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/111-2.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:55:54 : INFO] - Processing task with ID : 686, and type 'smush' 
+[2022-09-02 20:55:54 : INFO] - Task with ID 686 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/111-3.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:55:54 : INFO] - Processing task with ID : 685, and type 'smush' 
+[2022-09-02 20:55:54 : INFO] - Task with ID 685 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/111-4.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:55:54 : INFO] - Processing task with ID : 684, and type 'smush' 
+[2022-09-02 20:55:54 : INFO] - Task with ID 684 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/a-4.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:55:54 : INFO] - Processing task with ID : 683, and type 'smush' 
+[2022-09-02 20:55:54 : INFO] - Task with ID 683 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/a-3.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:55:54 : INFO] - Processing task with ID : 682, and type 'smush' 
+[2022-09-02 20:55:54 : INFO] - Task with ID 682 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/a-2.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:55:54 : INFO] - Processing task with ID : 681, and type 'smush' 
+[2022-09-02 20:55:54 : INFO] - Task with ID 681 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/a-1.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:55:54 : INFO] - Processing task with ID : 680, and type 'smush' 
+[2022-09-02 20:55:54 : INFO] - Task with ID 680 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/Screenshot-2022-08-27-at-1.40.35-AM.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:55:54 : INFO] - Processing task with ID : 659, and type 'smush' 
+[2022-09-02 20:55:54 : INFO] - Task with ID 659 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/Screenshot-2022-08-25-at-3.31.20-AM.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:55:54 : INFO] - Processing task with ID : 660, and type 'smush' 
+[2022-09-02 20:55:54 : INFO] - Task with ID 660 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/Screenshot-2022-08-25-at-4.04.23-AM.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:55:54 : INFO] - Processing task with ID : 658, and type 'smush' 
+[2022-09-02 20:55:54 : INFO] - Task with ID 658 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/Screenshot-2022-08-25-at-3.30.36-AM.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:55:54 : INFO] - Lock option (updraft_lock_smush, wp_options) released 
+[2022-09-02 20:55:54 : INFO] - Successfully processed the queue (smush). 128 tasks were processed out of 128. 
+[2022-09-02 20:55:54 : INFO] - Lock option (updraft_lock_smush, wp_options) was deleted from the database 
+[2022-09-02 20:55:54 : INFO] - Cleaning up tasks of type (smush). A total of 128 tasks will be deleted. 
+[2022-09-02 20:55:55 : INFO] - Could not find file for image: ID=8946, file=/home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/1-01-01.webp 
+[2022-09-02 20:56:00 : INFO] - Could not find file for image: ID=8946, file=/home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/1-01-01.webp 
+[2022-09-02 20:56:03 : INFO] - Could not find file for image: ID=8946, file=/home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/1-01-01.webp 
+[2022-09-02 20:56:05 : INFO] - Could not find file for image: ID=8946, file=/home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/1-01-01.webp 
+[2022-09-02 20:56:06 : INFO] - Could not find file for image: ID=8946, file=/home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/1-01-01.webp 
+[2022-09-02 20:56:11 : INFO] - Could not find file for image: ID=8946, file=/home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/1-01-01.webp 
+[2022-09-02 20:56:19 : INFO] - Could not find file for image: ID=8946, file=/home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/1-01-01.webp 
+[2022-09-02 20:57:43 : INFO] - Re_Smush_It_Task server status: Online 
+[2022-09-02 20:57:50 : INFO] - Could not find file for image: ID=8946, file=/home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/1-01-01.webp 
+[2022-09-02 20:57:50 : INFO] - 
+ 
+[2022-09-02 20:57:50 : INFO] - Header for logs at time:  Fri, 02 Sep 2022 20:57:50 +0000 on https://tathagat.co.in/online 
+[2022-09-02 20:57:50 : INFO] - WP: 6.0.2 
+[2022-09-02 20:57:50 : INFO] - PHP: 8.0.22 (litespeed, Linux us511.directrouter.com 3.10.0-962.3.2.lve1.5.70.el7.x86_64 #1 SMP Mon May 30 08:45:55 UTC 2022 x86_64) 
+[2022-09-02 20:57:50 : INFO] - MySQL: 10.3.25 
+[2022-09-02 20:57:50 : INFO] - WPLANG: en_US 
+[2022-09-02 20:57:50 : INFO] - Server: LiteSpeed 
+[2022-09-02 20:57:50 : INFO] - Outbound connections: N 
+[2022-09-02 20:57:50 : INFO] - safe_mode: 0 
+[2022-09-02 20:57:50 : INFO] - max_execution_time: 300 
+[2022-09-02 20:57:50 : INFO] - memory_limit: 2248M (used: 89M | 91M) 
+[2022-09-02 20:57:50 : INFO] - multisite: N 
+[2022-09-02 20:57:50 : INFO] - openssl: OpenSSL 1.1.1p  21 Jun 2022 
+[2022-09-02 20:57:52 : INFO] - Could not find file for image: ID=8946, file=/home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/1-01-01.webp 
+[2022-09-02 20:57:58 : INFO] - Could not find file for image: ID=8946, file=/home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/1-01-01.webp 
+[2022-09-02 20:57:59 : INFO] - A total of 128 tasks of type smush found and will be processed in this iteration 
+[2022-09-02 20:57:59 : DEBUG] - Lock option (updraft_lock_smush, wp_options) was created in the database 
+[2022-09-02 20:57:59 : INFO] - Lock (updraft_lock_smush, wp_options) acquired after initialising the database 
+[2022-09-02 20:57:59 : INFO] - Processing task with ID : 897, and type 'smush' 
+[2022-09-02 20:57:59 : INFO] - Task with ID 897 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/2-01-2.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:57:59 : INFO] - Processing task with ID : 896, and type 'smush' 
+[2022-09-02 20:57:59 : INFO] - Task with ID 896 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/3-01-1.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:57:59 : INFO] - Processing task with ID : 895, and type 'smush' 
+[2022-09-02 20:57:59 : INFO] - Task with ID 895 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/4-01-1.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:57:59 : INFO] - Processing task with ID : 894, and type 'smush' 
+[2022-09-02 20:57:59 : INFO] - Task with ID 894 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/5-01-1.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:57:59 : INFO] - Processing task with ID : 893, and type 'smush' 
+[2022-09-02 20:57:59 : INFO] - Task with ID 893 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/6-01-1.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:57:59 : INFO] - Processing task with ID : 892, and type 'smush' 
+[2022-09-02 20:57:59 : INFO] - Task with ID 892 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/7-01-1.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:57:59 : INFO] - Processing task with ID : 891, and type 'smush' 
+[2022-09-02 20:57:59 : INFO] - Task with ID 891 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/8-01-1.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:57:59 : INFO] - Processing task with ID : 890, and type 'smush' 
+[2022-09-02 20:57:59 : INFO] - Task with ID 890 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/9-01.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:57:59 : INFO] - Processing task with ID : 889, and type 'smush' 
+[2022-09-02 20:57:59 : INFO] - Task with ID 889 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/10-01.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:57:59 : INFO] - Processing task with ID : 888, and type 'smush' 
+[2022-09-02 20:57:59 : INFO] - Task with ID 888 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/11-01.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:57:59 : INFO] - Processing task with ID : 887, and type 'smush' 
+[2022-09-02 20:57:59 : INFO] - Task with ID 887 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/12-01.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:57:59 : INFO] - Processing task with ID : 886, and type 'smush' 
+[2022-09-02 20:57:59 : INFO] - Task with ID 886 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/02/saurabh.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:57:59 : INFO] - Processing task with ID : 885, and type 'smush' 
+[2022-09-02 20:57:59 : INFO] - Task with ID 885 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/02/jatin.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:57:59 : INFO] - Processing task with ID : 884, and type 'smush' 
+[2022-09-02 20:57:59 : INFO] - Task with ID 884 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/02/kush.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:57:59 : INFO] - Processing task with ID : 883, and type 'smush' 
+[2022-09-02 20:57:59 : INFO] - Task with ID 883 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/pratishtha.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:57:59 : INFO] - Processing task with ID : 882, and type 'smush' 
+[2022-09-02 20:57:59 : INFO] - Task with ID 882 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/manvi.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:57:59 : INFO] - Processing task with ID : 881, and type 'smush' 
+[2022-09-02 20:57:59 : INFO] - Task with ID 881 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/akash.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:57:59 : INFO] - Processing task with ID : 880, and type 'smush' 
+[2022-09-02 20:57:59 : INFO] - Task with ID 880 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/ambuj.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:57:59 : INFO] - Processing task with ID : 879, and type 'smush' 
+[2022-09-02 20:57:59 : INFO] - Task with ID 879 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/mahima.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:57:59 : INFO] - Processing task with ID : 878, and type 'smush' 
+[2022-09-02 20:57:59 : INFO] - Task with ID 878 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/drishti.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:57:59 : INFO] - Processing task with ID : 877, and type 'smush' 
+[2022-09-02 20:57:59 : INFO] - Task with ID 877 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/02/Gitika.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:58:00 : INFO] - Processing task with ID : 876, and type 'smush' 
+[2022-09-02 20:58:00 : INFO] - Task with ID 876 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/02/luv.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:58:00 : INFO] - Processing task with ID : 875, and type 'smush' 
+[2022-09-02 20:58:00 : INFO] - Task with ID 875 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2018/05/course_image-1.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:58:00 : INFO] - Processing task with ID : 874, and type 'smush' 
+[2022-09-02 20:58:00 : INFO] - Task with ID 874 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2018/05/lesson_image-1.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:58:00 : INFO] - Processing task with ID : 873, and type 'smush' 
+[2022-09-02 20:58:00 : INFO] - Task with ID 873 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2018/07/second_screen-1.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:58:00 : INFO] - Processing task with ID : 872, and type 'smush' 
+[2022-09-02 20:58:00 : INFO] - Task with ID 872 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2018/07/certificate-1.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:58:00 : INFO] - Processing task with ID : 871, and type 'smush' 
+[2022-09-02 20:58:00 : INFO] - Task with ID 871 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2018/08/photo-1416339134316-0e91dc9ded92-1.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:58:00 : INFO] - Processing task with ID : 870, and type 'smush' 
+[2022-09-02 20:58:00 : INFO] - Task with ID 870 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2018/08/photo-1513829596324-4bb2800c5efb-1.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:58:00 : INFO] - Processing task with ID : 869, and type 'smush' 
+[2022-09-02 20:58:00 : INFO] - Task with ID 869 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2018/08/photo-1507457379470-08b800bebc67-1-scaled.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:58:00 : INFO] - Processing task with ID : 868, and type 'smush' 
+[2022-09-02 20:58:00 : INFO] - Task with ID 868 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2018/08/photo-1512686096451-a15c19314d59-1.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:58:00 : INFO] - Processing task with ID : 867, and type 'smush' 
+[2022-09-02 20:58:00 : INFO] - Task with ID 867 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2018/08/photo-1461749280684-dccba630e2f6-1.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:58:00 : INFO] - Processing task with ID : 866, and type 'smush' 
+[2022-09-02 20:58:00 : INFO] - Task with ID 866 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2020/04/a0003-1.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:58:00 : INFO] - Processing task with ID : 865, and type 'smush' 
+[2022-09-02 20:58:00 : INFO] - Task with ID 865 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2020/04/a0002-1-1.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:58:00 : INFO] - Processing task with ID : 864, and type 'smush' 
+[2022-09-02 20:58:00 : INFO] - Task with ID 864 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2020/05/woman-standing-in-hallway-while-holding-book-1462630-scaled-2.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:58:00 : INFO] - Processing task with ID : 863, and type 'smush' 
+[2022-09-02 20:58:00 : INFO] - Task with ID 863 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2020/05/bg-1.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:58:00 : INFO] - Processing task with ID : 862, and type 'smush' 
+[2022-09-02 20:58:00 : INFO] - Task with ID 862 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2020/05/zoom-bg_03-1.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:58:00 : INFO] - Processing task with ID : 861, and type 'smush' 
+[2022-09-02 20:58:00 : INFO] - Task with ID 861 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2020/05/1-1.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:58:00 : INFO] - Processing task with ID : 860, and type 'smush' 
+[2022-09-02 20:58:00 : INFO] - Task with ID 860 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2020/05/2-1-1.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:58:00 : INFO] - Processing task with ID : 854, and type 'smush' 
+[2022-09-02 20:58:00 : INFO] - Task with ID 854 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2020/05/Distance_Learning3_06-1.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:58:00 : INFO] - Processing task with ID : 855, and type 'smush' 
+[2022-09-02 20:58:00 : INFO] - Task with ID 855 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2020/05/Distance_Learning2_03-1.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:58:00 : INFO] - Processing task with ID : 856, and type 'smush' 
+[2022-09-02 20:58:00 : INFO] - Task with ID 856 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2020/05/Distance_Learning__03-1.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:58:00 : INFO] - Processing task with ID : 857, and type 'smush' 
+[2022-09-02 20:58:00 : INFO] - Task with ID 857 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2020/05/robert-richards-1-1.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:58:00 : INFO] - Processing task with ID : 858, and type 'smush' 
+[2022-09-02 20:58:00 : INFO] - Task with ID 858 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2020/05/logo-2-1.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:58:00 : INFO] - Processing task with ID : 859, and type 'smush' 
+[2022-09-02 20:58:00 : INFO] - Task with ID 859 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2020/05/3-1.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:58:00 : INFO] - Processing task with ID : 853, and type 'smush' 
+[2022-09-02 20:58:00 : INFO] - Task with ID 853 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2020/05/video-1.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:58:00 : INFO] - Processing task with ID : 826, and type 'smush' 
+[2022-09-02 20:58:00 : INFO] - Task with ID 826 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/10.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:58:00 : INFO] - Processing task with ID : 803, and type 'smush' 
+[2022-09-02 20:58:00 : INFO] - Task with ID 803 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/Screenshot-2022-08-27-at-12.41.54-AM.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:58:00 : INFO] - Processing task with ID : 802, and type 'smush' 
+[2022-09-02 20:58:00 : INFO] - Task with ID 802 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/Screenshot-2022-08-27-at-12.42.22-AM.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:58:00 : INFO] - Processing task with ID : 801, and type 'smush' 
+[2022-09-02 20:58:00 : INFO] - Task with ID 801 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/Screenshot-2022-08-27-at-12.35.03-AM.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:58:00 : INFO] - Processing task with ID : 800, and type 'smush' 
+[2022-09-02 20:58:00 : INFO] - Task with ID 800 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/TG-Logo-BLACK-01-scaled.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:58:00 : INFO] - Processing task with ID : 799, and type 'smush' 
+[2022-09-02 20:58:00 : INFO] - Task with ID 799 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/TG-Logo-W-01-scaled.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:58:00 : INFO] - Processing task with ID : 798, and type 'smush' 
+[2022-09-02 20:58:00 : INFO] - Task with ID 798 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/Screenshot-2022-08-26-at-2.04.58-PM.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:58:00 : INFO] - Processing task with ID : 797, and type 'smush' 
+[2022-09-02 20:58:00 : INFO] - Task with ID 797 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/Screenshot-2022-08-26-at-1.58.50-PM.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:58:00 : INFO] - Processing task with ID : 796, and type 'smush' 
+[2022-09-02 20:58:00 : INFO] - Task with ID 796 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/Screenshot-2022-08-26-at-1.53.09-PM.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:58:00 : INFO] - Processing task with ID : 795, and type 'smush' 
+[2022-09-02 20:58:00 : INFO] - Task with ID 795 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/Screenshot-2022-08-26-at-1.39.37-PM.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:58:00 : INFO] - Processing task with ID : 794, and type 'smush' 
+[2022-09-02 20:58:00 : INFO] - Task with ID 794 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/Screenshot-2022-08-26-at-1.29.50-PM.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:58:00 : INFO] - Processing task with ID : 790, and type 'smush' 
+[2022-09-02 20:58:00 : INFO] - Task with ID 790 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/Screenshot-2022-08-25-at-4.17.37-AM.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:58:00 : INFO] - Processing task with ID : 791, and type 'smush' 
+[2022-09-02 20:58:00 : INFO] - Task with ID 791 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/Screenshot-2022-08-25-at-4.31.45-AM.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:58:00 : INFO] - Processing task with ID : 792, and type 'smush' 
+[2022-09-02 20:58:00 : INFO] - Task with ID 792 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/Screenshot-2022-08-25-at-4.41.27-AM.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:58:00 : INFO] - Processing task with ID : 793, and type 'smush' 
+[2022-09-02 20:58:00 : INFO] - Task with ID 793 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/Screenshot-2022-08-25-at-4.47.05-AM.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:58:00 : INFO] - Processing task with ID : 787, and type 'smush' 
+[2022-09-02 20:58:00 : INFO] - Task with ID 787 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/Screenshot-2022-08-25-at-3.31.20-AM.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:58:00 : INFO] - Processing task with ID : 913, and type 'smush' 
+[2022-09-02 20:58:00 : INFO] - Task with ID 913 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/B-4.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:58:00 : INFO] - Processing task with ID : 912, and type 'smush' 
+[2022-09-02 20:58:00 : INFO] - Task with ID 912 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/B-5.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:58:00 : INFO] - Processing task with ID : 911, and type 'smush' 
+[2022-09-02 20:58:00 : INFO] - Task with ID 911 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/01.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:58:00 : INFO] - Processing task with ID : 910, and type 'smush' 
+[2022-09-02 20:58:00 : INFO] - Task with ID 910 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/2-2.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:58:00 : INFO] - Processing task with ID : 909, and type 'smush' 
+[2022-09-02 20:58:00 : INFO] - Task with ID 909 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/02.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:58:01 : INFO] - Processing task with ID : 908, and type 'smush' 
+[2022-09-02 20:58:01 : INFO] - Task with ID 908 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/2-3.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:58:01 : INFO] - Processing task with ID : 907, and type 'smush' 
+[2022-09-02 20:58:01 : INFO] - Task with ID 907 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/5-1.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:58:01 : INFO] - Processing task with ID : 906, and type 'smush' 
+[2022-09-02 20:58:01 : INFO] - Task with ID 906 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/screenshot.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:58:01 : INFO] - Processing task with ID : 905, and type 'smush' 
+[2022-09-02 20:58:01 : INFO] - Task with ID 905 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/6-1.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:58:01 : INFO] - Processing task with ID : 904, and type 'smush' 
+[2022-09-02 20:58:01 : INFO] - Task with ID 904 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/Q.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:58:01 : INFO] - Processing task with ID : 903, and type 'smush' 
+[2022-09-02 20:58:01 : INFO] - Task with ID 903 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/A-6.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:58:01 : INFO] - Processing task with ID : 902, and type 'smush' 
+[2022-09-02 20:58:01 : INFO] - Task with ID 902 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/A-7.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:58:01 : INFO] - Processing task with ID : 901, and type 'smush' 
+[2022-09-02 20:58:01 : INFO] - Task with ID 901 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/A-8.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:58:01 : INFO] - Processing task with ID : 900, and type 'smush' 
+[2022-09-02 20:58:01 : INFO] - Task with ID 900 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/A-9.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:58:01 : INFO] - Processing task with ID : 899, and type 'smush' 
+[2022-09-02 20:58:01 : INFO] - Task with ID 899 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/TG-Logo-BLACK-01-1-scaled.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:58:01 : INFO] - Processing task with ID : 852, and type 'smush' 
+[2022-09-02 20:58:01 : INFO] - Task with ID 852 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2020/05/isotope-1.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:58:01 : INFO] - Processing task with ID : 851, and type 'smush' 
+[2022-09-02 20:58:01 : INFO] - Task with ID 851 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2020/05/header-1.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:58:01 : INFO] - Processing task with ID : 850, and type 'smush' 
+[2022-09-02 20:58:01 : INFO] - Task with ID 850 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/woocommerce-placeholder.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:58:01 : INFO] - Processing task with ID : 849, and type 'smush' 
+[2022-09-02 20:58:01 : INFO] - Task with ID 849 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/TG-Logo-Small.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:58:01 : INFO] - Processing task with ID : 848, and type 'smush' 
+[2022-09-02 20:58:01 : INFO] - Task with ID 848 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/Screenshot-2022-08-14-at-12.14.56-AM.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:58:01 : INFO] - Processing task with ID : 847, and type 'smush' 
+[2022-09-02 20:58:01 : INFO] - Task with ID 847 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/Screenshot-2022-08-14-at-12.16.29-AM.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:58:01 : INFO] - Processing task with ID : 846, and type 'smush' 
+[2022-09-02 20:58:01 : INFO] - Task with ID 846 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/Screenshot-2022-08-14-at-12.23.07-AM.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:58:01 : INFO] - Processing task with ID : 845, and type 'smush' 
+[2022-09-02 20:58:01 : INFO] - Task with ID 845 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/Screenshot-2022-08-14-at-12.22.50-AM.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:58:01 : INFO] - Could not find file for image: ID=8946, file=/home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/1-01-01.webp 
+[2022-09-02 20:58:01 : INFO] - Processing task with ID : 844, and type 'smush' 
+[2022-09-02 20:58:01 : INFO] - Task with ID 844 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/Screenshot-2022-08-14-at-12.22.23-AM.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:58:01 : INFO] - Processing task with ID : 843, and type 'smush' 
+[2022-09-02 20:58:01 : INFO] - Task with ID 843 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/Screenshot-2022-08-14-at-12.22.03-AM.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:58:01 : INFO] - Processing task with ID : 842, and type 'smush' 
+[2022-09-02 20:58:01 : INFO] - Task with ID 842 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/TG-Logo-black-font-.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:58:01 : INFO] - Processing task with ID : 841, and type 'smush' 
+[2022-09-02 20:58:01 : INFO] - Task with ID 841 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/istockphoto-1179260707-612x612-1.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:58:01 : INFO] - Processing task with ID : 840, and type 'smush' 
+[2022-09-02 20:58:01 : INFO] - Task with ID 840 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/Screenshot-2022-08-14-at-12.21.35-AM.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:58:01 : INFO] - Processing task with ID : 839, and type 'smush' 
+[2022-09-02 20:58:01 : INFO] - Task with ID 839 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/other-small.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:58:01 : INFO] - Processing task with ID : 838, and type 'smush' 
+[2022-09-02 20:58:02 : INFO] - Task with ID 838 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/TG-favicon-new.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:58:02 : INFO] - Processing task with ID : 837, and type 'smush' 
+[2022-09-02 20:58:02 : INFO] - Task with ID 837 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/Faded-orange-back.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:58:02 : INFO] - Processing task with ID : 836, and type 'smush' 
+[2022-09-02 20:58:02 : INFO] - Task with ID 836 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/istockphoto-1152410679-612x612-1.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:58:02 : INFO] - Processing task with ID : 835, and type 'smush' 
+[2022-09-02 20:58:02 : INFO] - Task with ID 835 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/1-01.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:58:02 : INFO] - Processing task with ID : 834, and type 'smush' 
+[2022-09-02 20:58:02 : INFO] - Task with ID 834 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/2-01.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:58:02 : INFO] - Processing task with ID : 833, and type 'smush' 
+[2022-09-02 20:58:02 : INFO] - Task with ID 833 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/1-01.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:58:02 : INFO] - Processing task with ID : 832, and type 'smush' 
+[2022-09-02 20:58:02 : INFO] - Task with ID 832 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/1-01-1.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:58:02 : INFO] - Processing task with ID : 831, and type 'smush' 
+[2022-09-02 20:58:02 : INFO] - Task with ID 831 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/1.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:58:02 : INFO] - Processing task with ID : 830, and type 'smush' 
+[2022-09-02 20:58:02 : INFO] - Task with ID 830 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/3.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:58:02 : INFO] - Processing task with ID : 829, and type 'smush' 
+[2022-09-02 20:58:02 : INFO] - Task with ID 829 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/4.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:58:02 : INFO] - Processing task with ID : 828, and type 'smush' 
+[2022-09-02 20:58:02 : INFO] - Task with ID 828 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/6.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:58:02 : INFO] - Processing task with ID : 827, and type 'smush' 
+[2022-09-02 20:58:02 : INFO] - Task with ID 827 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/7.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:58:02 : INFO] - Processing task with ID : 825, and type 'smush' 
+[2022-09-02 20:58:02 : INFO] - Task with ID 825 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/05.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:58:02 : INFO] - Processing task with ID : 824, and type 'smush' 
+[2022-09-02 20:58:02 : INFO] - Task with ID 824 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/11.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:58:02 : INFO] - Processing task with ID : 823, and type 'smush' 
+[2022-09-02 20:58:02 : INFO] - Task with ID 823 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/12.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:58:02 : INFO] - Processing task with ID : 822, and type 'smush' 
+[2022-09-02 20:58:02 : INFO] - Task with ID 822 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/asdf1.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:58:02 : INFO] - Processing task with ID : 821, and type 'smush' 
+[2022-09-02 20:58:02 : INFO] - Task with ID 821 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/asdf2.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:58:02 : INFO] - Processing task with ID : 820, and type 'smush' 
+[2022-09-02 20:58:02 : INFO] - Task with ID 820 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/asdf1-1.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:58:02 : INFO] - Processing task with ID : 819, and type 'smush' 
+[2022-09-02 20:58:02 : INFO] - Task with ID 819 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/Screenshot-2022-08-27-at-1.39.18-AM.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:58:02 : INFO] - Processing task with ID : 818, and type 'smush' 
+[2022-09-02 20:58:02 : INFO] - Task with ID 818 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/10.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:58:02 : INFO] - Processing task with ID : 817, and type 'smush' 
+[2022-09-02 20:58:02 : INFO] - Task with ID 817 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/111.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:58:02 : INFO] - Processing task with ID : 816, and type 'smush' 
+[2022-09-02 20:58:02 : INFO] - Task with ID 816 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/111-1.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:58:02 : INFO] - Processing task with ID : 815, and type 'smush' 
+[2022-09-02 20:58:02 : INFO] - Task with ID 815 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/111-2.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:58:02 : INFO] - Processing task with ID : 814, and type 'smush' 
+[2022-09-02 20:58:02 : INFO] - Task with ID 814 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/111-3.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:58:03 : INFO] - Processing task with ID : 813, and type 'smush' 
+[2022-09-02 20:58:03 : INFO] - Task with ID 813 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/111-4.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:58:03 : INFO] - Processing task with ID : 812, and type 'smush' 
+[2022-09-02 20:58:03 : INFO] - Task with ID 812 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/a-4.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:58:03 : INFO] - Processing task with ID : 811, and type 'smush' 
+[2022-09-02 20:58:03 : INFO] - Task with ID 811 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/a-3.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:58:03 : INFO] - Processing task with ID : 810, and type 'smush' 
+[2022-09-02 20:58:03 : INFO] - Task with ID 810 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/a-2.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:58:03 : INFO] - Processing task with ID : 809, and type 'smush' 
+[2022-09-02 20:58:03 : INFO] - Task with ID 809 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/a-1.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:58:03 : INFO] - Processing task with ID : 808, and type 'smush' 
+[2022-09-02 20:58:03 : INFO] - Task with ID 808 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/Screenshot-2022-08-27-at-1.40.35-AM.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:58:03 : INFO] - Processing task with ID : 807, and type 'smush' 
+[2022-09-02 20:58:03 : INFO] - Task with ID 807 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/Screenshot-2022-08-27-at-1.39.38-AM.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:58:03 : INFO] - Processing task with ID : 806, and type 'smush' 
+[2022-09-02 20:58:03 : INFO] - Task with ID 806 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/Screenshot-2022-08-27-at-1.42.09-AM.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:58:03 : INFO] - Processing task with ID : 805, and type 'smush' 
+[2022-09-02 20:58:03 : INFO] - Task with ID 805 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/Screenshot-2022-08-27-at-1.20.58-AM.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:58:03 : INFO] - Processing task with ID : 804, and type 'smush' 
+[2022-09-02 20:58:03 : INFO] - Task with ID 804 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/Screenshot-2022-08-27-at-1.21.26-AM.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:58:03 : INFO] - Processing task with ID : 898, and type 'smush' 
+[2022-09-02 20:58:03 : INFO] - Task with ID 898 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/1-01-1.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:58:03 : INFO] - Processing task with ID : 789, and type 'smush' 
+[2022-09-02 20:58:03 : INFO] - Task with ID 789 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/Screenshot-2022-08-25-at-4.12.26-AM.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:58:03 : INFO] - Processing task with ID : 788, and type 'smush' 
+[2022-09-02 20:58:03 : INFO] - Task with ID 788 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/Screenshot-2022-08-25-at-4.04.23-AM.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:58:03 : INFO] - Processing task with ID : 786, and type 'smush' 
+[2022-09-02 20:58:03 : INFO] - Task with ID 786 and type (smush) failed with error code invalid_file_type - /home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/Screenshot-2022-08-25-at-3.30.36-AM.webp - cannot be optimized, it has an invalid file type 
+[2022-09-02 20:58:03 : INFO] - Lock option (updraft_lock_smush, wp_options) released 
+[2022-09-02 20:58:03 : INFO] - Successfully processed the queue (smush). 128 tasks were processed out of 128. 
+[2022-09-02 20:58:03 : INFO] - Lock option (updraft_lock_smush, wp_options) was deleted from the database 
+[2022-09-02 20:58:03 : INFO] - Cleaning up tasks of type (smush). A total of 128 tasks will be deleted. 
+[2022-09-02 20:58:04 : INFO] - Could not find file for image: ID=8946, file=/home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/1-01-01.webp 
+[2022-09-02 20:58:05 : INFO] - Could not find file for image: ID=8946, file=/home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/1-01-01.webp 
+[2022-09-02 20:58:12 : INFO] - Could not find file for image: ID=8946, file=/home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/1-01-01.webp 
+[2022-09-02 20:58:15 : INFO] - Could not find file for image: ID=8946, file=/home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/1-01-01.webp 
+[2022-09-02 20:58:18 : INFO] - Could not find file for image: ID=8946, file=/home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/1-01-01.webp 
+[2022-09-02 20:58:23 : INFO] - Could not find file for image: ID=8946, file=/home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/1-01-01.webp 
+[2022-09-02 20:59:45 : INFO] - Could not find file for image: ID=8946, file=/home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/1-01-01.webp 
+[2022-09-02 21:00:18 : INFO] - Could not find file for image: ID=8946, file=/home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/1-01-01.webp 
+[2022-09-02 21:00:23 : INFO] - Could not find file for image: ID=8946, file=/home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/1-01-01.webp 
+[2022-09-02 21:31:04 : INFO] - Could not find file for image: ID=8946, file=/home/uoxruhuf/public_html/online/wp-content/uploads/2022/08/1-01-01.webp 
