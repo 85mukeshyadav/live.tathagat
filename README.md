@@ -1,1 +1,1 @@
-# live.tathagat
+# tathagat-online

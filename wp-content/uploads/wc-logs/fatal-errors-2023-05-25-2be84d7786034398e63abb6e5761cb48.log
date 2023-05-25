@@ -1,0 +1,126 @@
+2023-05-25T17:16:35+00:00 CRITICAL Uncaught TypeError: ftp_pwd(): Argument #1 ($ftp) must be of type resource, null given in /Applications/XAMPP/xamppfiles/htdocs/tathagat-online/wp-admin/includes/class-wp-filesystem-ftpext.php:230
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/tathagat-online/wp-admin/includes/class-wp-filesystem-ftpext.php(230): ftp_pwd(NULL)
+#1 /Applications/XAMPP/xamppfiles/htdocs/tathagat-online/wp-admin/includes/class-wp-filesystem-ftpext.php(457): WP_Filesystem_FTPext->cwd()
+#2 /Applications/XAMPP/xamppfiles/htdocs/tathagat-online/wp-content/plugins/masterstudy-lms-learning-management-system/_core/lms/generate_styles.php(27): WP_Filesystem_FTPext->is_dir('/Applications/X...')
+#3 /Applications/XAMPP/xamppfiles/htdocs/tathagat-online/wp-includes/class-wp-hook.php(308): stm_lms_generate_styles('')
+#4 /Applications/XAMPP/xamppfiles/htdocs/tathagat-online/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#5 /Applications/XAMPP/xamppfiles/htdocs/tathagat-online/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#6 /Applications/XAMPP/xamppfiles/htdocs/tathagat-online/wp-settings.php(623): do_action('init')
+#7 /Applications/XAMPP/xamppfiles/htdocs/tathagat-online/wp-config.php(96): require_once('/Applications/X...')
+#8 /Applications/XAMPP/xamppfiles/htdocs/tathagat-online/wp-load.php(50): require_once('/Applications/X...')
+#9 /Applications/XAMPP/xamppfiles/htdocs/tathagat-online/wp-admin/admin.php(34): require_once('/Applications/X...')
+#10 /Applications/XAMPP/xamppfiles/htdocs/tathagat-online/wp-admin/index.php(10): require_once('/Applications/X...')
+#11 {main}
+  thrown in /Applications/XAMPP/xamppfiles/htdocs/tathagat-online/wp-admin/includes/class-wp-filesystem-ftpext.php on line 230
+
+2023-05-25T17:18:48+00:00 CRITICAL Uncaught TypeError: ftp_pwd(): Argument #1 ($ftp) must be of type resource, null given in /Applications/XAMPP/xamppfiles/htdocs/tathagat-online/wp-admin/includes/class-wp-filesystem-ftpext.php:230
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/tathagat-online/wp-admin/includes/class-wp-filesystem-ftpext.php(230): ftp_pwd(NULL)
+#1 /Applications/XAMPP/xamppfiles/htdocs/tathagat-online/wp-admin/includes/class-wp-filesystem-ftpext.php(457): WP_Filesystem_FTPext->cwd()
+#2 /Applications/XAMPP/xamppfiles/htdocs/tathagat-online/wp-content/plugins/masterstudy-lms-learning-management-system/_core/lms/generate_styles.php(27): WP_Filesystem_FTPext->is_dir('/Applications/X...')
+#3 /Applications/XAMPP/xamppfiles/htdocs/tathagat-online/wp-includes/class-wp-hook.php(308): stm_lms_generate_styles('')
+#4 /Applications/XAMPP/xamppfiles/htdocs/tathagat-online/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#5 /Applications/XAMPP/xamppfiles/htdocs/tathagat-online/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#6 /Applications/XAMPP/xamppfiles/htdocs/tathagat-online/wp-settings.php(623): do_action('init')
+#7 /Applications/XAMPP/xamppfiles/htdocs/tathagat-online/wp-config.php(96): require_once('/Applications/X...')
+#8 /Applications/XAMPP/xamppfiles/htdocs/tathagat-online/wp-load.php(50): require_once('/Applications/X...')
+#9 /Applications/XAMPP/xamppfiles/htdocs/tathagat-online/wp-admin/admin.php(34): require_once('/Applications/X...')
+#10 /Applications/XAMPP/xamppfiles/htdocs/tathagat-online/wp-admin/about.php(10): require_once('/Applications/X...')
+#11 {main}
+  thrown in /Applications/XAMPP/xamppfiles/htdocs/tathagat-online/wp-admin/includes/class-wp-filesystem-ftpext.php on line 230
+
+2023-05-25T17:18:57+00:00 CRITICAL Uncaught TypeError: ftp_pwd(): Argument #1 ($ftp) must be of type resource, null given in /Applications/XAMPP/xamppfiles/htdocs/tathagat-online/wp-admin/includes/class-wp-filesystem-ftpext.php:230
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/tathagat-online/wp-admin/includes/class-wp-filesystem-ftpext.php(230): ftp_pwd(NULL)
+#1 /Applications/XAMPP/xamppfiles/htdocs/tathagat-online/wp-admin/includes/class-wp-filesystem-ftpext.php(457): WP_Filesystem_FTPext->cwd()
+#2 /Applications/XAMPP/xamppfiles/htdocs/tathagat-online/wp-content/plugins/masterstudy-lms-learning-management-system/_core/lms/generate_styles.php(27): WP_Filesystem_FTPext->is_dir('/Applications/X...')
+#3 /Applications/XAMPP/xamppfiles/htdocs/tathagat-online/wp-includes/class-wp-hook.php(308): stm_lms_generate_styles('')
+#4 /Applications/XAMPP/xamppfiles/htdocs/tathagat-online/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#5 /Applications/XAMPP/xamppfiles/htdocs/tathagat-online/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#6 /Applications/XAMPP/xamppfiles/htdocs/tathagat-online/wp-settings.php(623): do_action('init')
+#7 /Applications/XAMPP/xamppfiles/htdocs/tathagat-online/wp-config.php(96): require_once('/Applications/X...')
+#8 /Applications/XAMPP/xamppfiles/htdocs/tathagat-online/wp-load.php(50): require_once('/Applications/X...')
+#9 /Applications/XAMPP/xamppfiles/htdocs/tathagat-online/wp-admin/admin.php(34): require_once('/Applications/X...')
+#10 /Applications/XAMPP/xamppfiles/htdocs/tathagat-online/wp-admin/about.php(10): require_once('/Applications/X...')
+#11 {main}
+  thrown in /Applications/XAMPP/xamppfiles/htdocs/tathagat-online/wp-admin/includes/class-wp-filesystem-ftpext.php on line 230
+
+2023-05-25T17:19:22+00:00 CRITICAL Uncaught TypeError: ftp_pwd(): Argument #1 ($ftp) must be of type resource, null given in /Applications/XAMPP/xamppfiles/htdocs/tathagat-online/wp-admin/includes/class-wp-filesystem-ftpext.php:230
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/tathagat-online/wp-admin/includes/class-wp-filesystem-ftpext.php(230): ftp_pwd(NULL)
+#1 /Applications/XAMPP/xamppfiles/htdocs/tathagat-online/wp-admin/includes/class-wp-filesystem-ftpext.php(457): WP_Filesystem_FTPext->cwd()
+#2 /Applications/XAMPP/xamppfiles/htdocs/tathagat-online/wp-content/plugins/masterstudy-lms-learning-management-system/_core/lms/generate_styles.php(27): WP_Filesystem_FTPext->is_dir('/Applications/X...')
+#3 /Applications/XAMPP/xamppfiles/htdocs/tathagat-online/wp-includes/class-wp-hook.php(308): stm_lms_generate_styles('')
+#4 /Applications/XAMPP/xamppfiles/htdocs/tathagat-online/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#5 /Applications/XAMPP/xamppfiles/htdocs/tathagat-online/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#6 /Applications/XAMPP/xamppfiles/htdocs/tathagat-online/wp-settings.php(623): do_action('init')
+#7 /Applications/XAMPP/xamppfiles/htdocs/tathagat-online/wp-config.php(96): require_once('/Applications/X...')
+#8 /Applications/XAMPP/xamppfiles/htdocs/tathagat-online/wp-load.php(50): require_once('/Applications/X...')
+#9 /Applications/XAMPP/xamppfiles/htdocs/tathagat-online/wp-admin/admin.php(34): require_once('/Applications/X...')
+#10 /Applications/XAMPP/xamppfiles/htdocs/tathagat-online/wp-admin/index.php(10): require_once('/Applications/X...')
+#11 {main}
+  thrown in /Applications/XAMPP/xamppfiles/htdocs/tathagat-online/wp-admin/includes/class-wp-filesystem-ftpext.php on line 230
+
+2023-05-25T17:21:00+00:00 CRITICAL Uncaught TypeError: ftp_pwd(): Argument #1 ($ftp) must be of type resource, null given in /Applications/XAMPP/xamppfiles/htdocs/tathagat-online/wp-admin/includes/class-wp-filesystem-ftpext.php:230
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/tathagat-online/wp-admin/includes/class-wp-filesystem-ftpext.php(230): ftp_pwd(NULL)
+#1 /Applications/XAMPP/xamppfiles/htdocs/tathagat-online/wp-admin/includes/class-wp-filesystem-ftpext.php(457): WP_Filesystem_FTPext->cwd()
+#2 /Applications/XAMPP/xamppfiles/htdocs/tathagat-online/wp-content/plugins/masterstudy-lms-learning-management-system/_core/lms/generate_styles.php(27): WP_Filesystem_FTPext->is_dir('/Applications/X...')
+#3 /Applications/XAMPP/xamppfiles/htdocs/tathagat-online/wp-includes/class-wp-hook.php(308): stm_lms_generate_styles('')
+#4 /Applications/XAMPP/xamppfiles/htdocs/tathagat-online/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#5 /Applications/XAMPP/xamppfiles/htdocs/tathagat-online/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#6 /Applications/XAMPP/xamppfiles/htdocs/tathagat-online/wp-settings.php(623): do_action('init')
+#7 /Applications/XAMPP/xamppfiles/htdocs/tathagat-online/wp-config.php(96): require_once('/Applications/X...')
+#8 /Applications/XAMPP/xamppfiles/htdocs/tathagat-online/wp-load.php(50): require_once('/Applications/X...')
+#9 /Applications/XAMPP/xamppfiles/htdocs/tathagat-online/wp-admin/admin.php(34): require_once('/Applications/X...')
+#10 /Applications/XAMPP/xamppfiles/htdocs/tathagat-online/wp-admin/index.php(10): require_once('/Applications/X...')
+#11 {main}
+  thrown in /Applications/XAMPP/xamppfiles/htdocs/tathagat-online/wp-admin/includes/class-wp-filesystem-ftpext.php on line 230
+
+2023-05-25T17:23:36+00:00 CRITICAL Uncaught TypeError: ftp_chdir(): Argument #1 ($ftp) must be of type resource, null given in /Applications/XAMPP/xamppfiles/htdocs/tathagat-online/wp-admin/includes/class-wp-filesystem-ftpext.php:458
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/tathagat-online/wp-admin/includes/class-wp-filesystem-ftpext.php(458): ftp_chdir(NULL, '/Applications/X...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/tathagat-online/wp-content/plugins/masterstudy-lms-learning-management-system/_core/lms/generate_styles.php(27): WP_Filesystem_FTPext->is_dir('/Applications/X...')
+#2 /Applications/XAMPP/xamppfiles/htdocs/tathagat-online/wp-includes/class-wp-hook.php(308): stm_lms_generate_styles('')
+#3 /Applications/XAMPP/xamppfiles/htdocs/tathagat-online/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#4 /Applications/XAMPP/xamppfiles/htdocs/tathagat-online/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#5 /Applications/XAMPP/xamppfiles/htdocs/tathagat-online/wp-settings.php(623): do_action('init')
+#6 /Applications/XAMPP/xamppfiles/htdocs/tathagat-online/wp-config.php(96): require_once('/Applications/X...')
+#7 /Applications/XAMPP/xamppfiles/htdocs/tathagat-online/wp-load.php(50): require_once('/Applications/X...')
+#8 /Applications/XAMPP/xamppfiles/htdocs/tathagat-online/wp-admin/admin.php(34): require_once('/Applications/X...')
+#9 /Applications/XAMPP/xamppfiles/htdocs/tathagat-online/wp-admin/index.php(10): require_once('/Applications/X...')
+#10 {main}
+  thrown in /Applications/XAMPP/xamppfiles/htdocs/tathagat-online/wp-admin/includes/class-wp-filesystem-ftpext.php on line 458
+
+2023-05-25T17:24:54+00:00 CRITICAL Uncaught TypeError: ftp_chdir(): Argument #1 ($ftp) must be of type resource, null given in /Applications/XAMPP/xamppfiles/htdocs/tathagat-online/wp-admin/includes/class-wp-filesystem-ftpext.php:458
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/tathagat-online/wp-admin/includes/class-wp-filesystem-ftpext.php(458): ftp_chdir(NULL, '/Applications/X...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/tathagat-online/wp-content/plugins/masterstudy-lms-learning-management-system/_core/lms/generate_styles.php(27): WP_Filesystem_FTPext->is_dir('/Applications/X...')
+#2 /Applications/XAMPP/xamppfiles/htdocs/tathagat-online/wp-includes/class-wp-hook.php(308): stm_lms_generate_styles('')
+#3 /Applications/XAMPP/xamppfiles/htdocs/tathagat-online/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#4 /Applications/XAMPP/xamppfiles/htdocs/tathagat-online/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#5 /Applications/XAMPP/xamppfiles/htdocs/tathagat-online/wp-settings.php(623): do_action('init')
+#6 /Applications/XAMPP/xamppfiles/htdocs/tathagat-online/wp-config.php(96): require_once('/Applications/X...')
+#7 /Applications/XAMPP/xamppfiles/htdocs/tathagat-online/wp-load.php(50): require_once('/Applications/X...')
+#8 /Applications/XAMPP/xamppfiles/htdocs/tathagat-online/wp-admin/admin.php(34): require_once('/Applications/X...')
+#9 /Applications/XAMPP/xamppfiles/htdocs/tathagat-online/wp-admin/index.php(10): require_once('/Applications/X...')
+#10 {main}
+  thrown in /Applications/XAMPP/xamppfiles/htdocs/tathagat-online/wp-admin/includes/class-wp-filesystem-ftpext.php on line 458
+
+2023-05-25T17:26:51+00:00 CRITICAL Uncaught TypeError: ftp_pwd(): Argument #1 ($ftp) must be of type resource, null given in /Applications/XAMPP/xamppfiles/htdocs/tathagat-online/wp-admin/includes/class-wp-filesystem-ftpext.php:230
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/tathagat-online/wp-admin/includes/class-wp-filesystem-ftpext.php(230): ftp_pwd(NULL)
+#1 /Applications/XAMPP/xamppfiles/htdocs/tathagat-online/wp-admin/includes/class-wp-filesystem-ftpext.php(457): WP_Filesystem_FTPext->cwd()
+#2 /Applications/XAMPP/xamppfiles/htdocs/tathagat-online/wp-content/plugins/masterstudy-lms-learning-management-system/_core/lms/generate_styles.php(27): WP_Filesystem_FTPext->is_dir('/Applications/X...')
+#3 /Applications/XAMPP/xamppfiles/htdocs/tathagat-online/wp-includes/class-wp-hook.php(308): stm_lms_generate_styles('')
+#4 /Applications/XAMPP/xamppfiles/htdocs/tathagat-online/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#5 /Applications/XAMPP/xamppfiles/htdocs/tathagat-online/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#6 /Applications/XAMPP/xamppfiles/htdocs/tathagat-online/wp-settings.php(623): do_action('init')
+#7 /Applications/XAMPP/xamppfiles/htdocs/tathagat-online/wp-config.php(96): require_once('/Applications/X...')
+#8 /Applications/XAMPP/xamppfiles/htdocs/tathagat-online/wp-load.php(50): require_once('/Applications/X...')
+#9 /Applications/XAMPP/xamppfiles/htdocs/tathagat-online/wp-admin/admin.php(34): require_once('/Applications/X...')
+#10 /Applications/XAMPP/xamppfiles/htdocs/tathagat-online/wp-admin/index.php(10): require_once('/Applications/X...')
+#11 {main}
+  thrown in /Applications/XAMPP/xamppfiles/htdocs/tathagat-online/wp-admin/includes/class-wp-filesystem-ftpext.php on line 230
+
